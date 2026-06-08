@@ -18,7 +18,7 @@
   <a href="LINK_LINKEDIN_CUA_BAN">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="LINK_FACEBOOK_CUA_BAN">
+  <a href="https://www.facebook.com/nguyen.anh.396013?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="LINK_INSTAGRAM_CUA_BAN">
