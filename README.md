@@ -21,7 +21,7 @@
   <a href="https://www.facebook.com/nguyen.anh.396013?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="LINK_INSTAGRAM_CUA_BAN">
+  <a href="https://www.instagram.com/n_ducanh06">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
