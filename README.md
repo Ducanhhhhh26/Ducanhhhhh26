@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Huidinne">
+  <a href="https://github.com/Ducanhhhhh26">
     <img src="https://komarev.com/ghpvc/?username=Ducanhhhhh26&label=Profile%20Views&color=87CEEB&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/Huidinne?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Huidinne?style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ducanhhhhh26?style=social">
   </a>
 </p>
 
